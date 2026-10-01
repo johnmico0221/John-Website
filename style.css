@@ -1,0 +1,35 @@
+p{
+    border:solid 5px;
+    border-radius: 100px;
+    font-size: 50px;
+    color: blue;
+}
+
+.j{ 
+    border:solid 5px;
+    border-radius: 10px;
+    color: rgb(12, 161, 161);
+    font-size: 30px; 
+    background-color: bisque;   
+}
+
+.v{ 
+    border:solid 5px;
+    border-color:rgb(200, 10, 130);
+    border-radius: 10px;
+    color: rgb(255, 0, 132);
+    font-size: 30px;
+    background-color: bisque; 
+}
+img{
+    width: 300px;height: 300px;
+    border-radius:0px 200px 200px 0;
+    padding: 100px;
+
+}
+Body{
+    background-color: rgb(196, 147, 33);
+     text-align: center;
+}
+
+
